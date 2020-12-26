@@ -2,8 +2,9 @@
 Interesting projects in Visual Studio 🗄
 
 ## Enigma
-Features: click animation, lamps, gears, encryption accounting, letter commentators, 5 rotors. </br>
+**Features: click animation, lamps, gears, encryption accounting, letter commentators, 5 rotors.** </br>
 ![](/Enigma/EnigmaApp.gif)
 
-## Hanoi of Towers
+## Towers Of Hanoi
+**Features: mouse control, AI Mode, Rus/Eng Languages, recording the history of moves, 8 levels of difficulty.** </br>
 ![](/TowersOfHanoi/TowersApp.gif)
