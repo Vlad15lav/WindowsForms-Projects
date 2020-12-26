@@ -1,0 +1,43 @@
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.exe.config
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.exe
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.pdb
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Form1.resources
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.exe
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.pdb
+C:\Users\Владислав\Desktop\Проекты 2 курс\Ханойская башня\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Form2.resources
+F:\2 Курс\Ханойские башни\Hanoi Towers\bin\Debug\Hanoi Towers.exe.config
+F:\2 Курс\Ханойские башни\Hanoi Towers\bin\Debug\Hanoi Towers.exe
+F:\2 Курс\Ханойские башни\Hanoi Towers\bin\Debug\Hanoi Towers.pdb
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.csprojAssemblyReference.cache
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi_Towers.Form1.resources
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi_Towers.Form2.resources
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.GenerateResource.cache
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.CoreCompileInputs.cache
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.exe
+F:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.pdb
+E:\2 Курс\Ханойские башни\Hanoi Towers\bin\Debug\Hanoi Towers.exe.config
+E:\2 Курс\Ханойские башни\Hanoi Towers\bin\Debug\Hanoi Towers.exe
+E:\2 Курс\Ханойские башни\Hanoi Towers\bin\Debug\Hanoi Towers.pdb
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.csprojAssemblyReference.cache
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi_Towers.Form1.resources
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi_Towers.Form2.resources
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.GenerateResource.cache
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.exe
+E:\2 Курс\Ханойские башни\Hanoi Towers\obj\Debug\Hanoi Towers.pdb
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.exe.config
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.exe
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.pdb
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Form1.resources
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Form2.resources
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.exe
+C:\Users\Владислав\Desktop\Кфу\Технологии и методы программирования\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.pdb
