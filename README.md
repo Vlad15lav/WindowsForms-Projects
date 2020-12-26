@@ -6,4 +6,4 @@ Features: click animation, lamps, gears, encryption accounting, letter commentat
 ![](/Enigma/EnigmaApp.gif)
 
 ## Hanoi of Towers
-![](/HanoiOfTowers/HanoiTowersApp.gif)
+![](/HanoiOfTowers/TowersApp.gif)
